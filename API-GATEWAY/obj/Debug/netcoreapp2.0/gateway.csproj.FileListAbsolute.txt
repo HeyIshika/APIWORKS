@@ -1,0 +1,50 @@
+C:\Users\Administrator\Desktop\angular\Insight\frontend\gateway\bin\Debug\netcoreapp2.0\gateway.deps.json
+C:\Users\Administrator\Desktop\angular\Insight\frontend\gateway\bin\Debug\netcoreapp2.0\gateway.runtimeconfig.json
+C:\Users\Administrator\Desktop\angular\Insight\frontend\gateway\bin\Debug\netcoreapp2.0\gateway.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\angular\Insight\frontend\gateway\bin\Debug\netcoreapp2.0\gateway.dll
+C:\Users\Administrator\Desktop\angular\Insight\frontend\gateway\bin\Debug\netcoreapp2.0\gateway.pdb
+C:\Users\Administrator\Desktop\angular\Insight\frontend\gateway\obj\Debug\netcoreapp2.0\gateway.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\angular\Insight\frontend\gateway\obj\Debug\netcoreapp2.0\gateway.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\angular\Insight\frontend\gateway\obj\Debug\netcoreapp2.0\gateway.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\angular\Insight\frontend\gateway\obj\Debug\netcoreapp2.0\gateway.dll
+C:\Users\Administrator\Desktop\angular\Insight\frontend\gateway\obj\Debug\netcoreapp2.0\gateway.pdb
+C:\Users\Administrator\Documents\Product\frontend\Login and Signup\gateway\obj\Debug\netcoreapp2.0\gateway.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Product\frontend\Login and Signup\gateway\obj\Debug\netcoreapp2.0\gateway.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Product\frontend\Login and Signup\gateway\obj\Debug\netcoreapp2.0\gateway.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Product\frontend\Login and Signup\gateway\obj\Debug\netcoreapp2.0\gateway.dll
+C:\Users\Administrator\Documents\Product\frontend\Login and Signup\gateway\obj\Debug\netcoreapp2.0\gateway.pdb
+C:\Users\Administrator\Documents\Product\frontend\Login and Signup\gateway\bin\Debug\netcoreapp2.0\gateway.deps.json
+C:\Users\Administrator\Documents\Product\frontend\Login and Signup\gateway\bin\Debug\netcoreapp2.0\gateway.runtimeconfig.json
+C:\Users\Administrator\Documents\Product\frontend\Login and Signup\gateway\bin\Debug\netcoreapp2.0\gateway.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\Product\frontend\Login and Signup\gateway\bin\Debug\netcoreapp2.0\gateway.dll
+C:\Users\Administrator\Documents\Product\frontend\Login and Signup\gateway\bin\Debug\netcoreapp2.0\gateway.pdb
+c:\Users\Administrator\Desktop\Insight\InSight-API\API-GATEWAY\bin\Debug\netcoreapp2.0\gateway.deps.json
+c:\Users\Administrator\Desktop\Insight\InSight-API\API-GATEWAY\bin\Debug\netcoreapp2.0\gateway.runtimeconfig.json
+c:\Users\Administrator\Desktop\Insight\InSight-API\API-GATEWAY\bin\Debug\netcoreapp2.0\gateway.runtimeconfig.dev.json
+c:\Users\Administrator\Desktop\Insight\InSight-API\API-GATEWAY\bin\Debug\netcoreapp2.0\gateway.dll
+c:\Users\Administrator\Desktop\Insight\InSight-API\API-GATEWAY\bin\Debug\netcoreapp2.0\gateway.pdb
+c:\Users\Administrator\Desktop\Insight\InSight-API\API-GATEWAY\obj\Debug\netcoreapp2.0\gateway.csproj.CoreCompileInputs.cache
+c:\Users\Administrator\Desktop\Insight\InSight-API\API-GATEWAY\obj\Debug\netcoreapp2.0\gateway.AssemblyInfoInputs.cache
+c:\Users\Administrator\Desktop\Insight\InSight-API\API-GATEWAY\obj\Debug\netcoreapp2.0\gateway.AssemblyInfo.cs
+c:\Users\Administrator\Desktop\Insight\InSight-API\API-GATEWAY\obj\Debug\netcoreapp2.0\gateway.dll
+c:\Users\Administrator\Desktop\Insight\InSight-API\API-GATEWAY\obj\Debug\netcoreapp2.0\gateway.pdb
+c:\Users\Administrator\Desktop\Insight\Insight\InSight-API\API-GATEWAY\bin\Debug\netcoreapp2.0\gateway.deps.json
+c:\Users\Administrator\Desktop\Insight\Insight\InSight-API\API-GATEWAY\bin\Debug\netcoreapp2.0\gateway.runtimeconfig.json
+c:\Users\Administrator\Desktop\Insight\Insight\InSight-API\API-GATEWAY\bin\Debug\netcoreapp2.0\gateway.runtimeconfig.dev.json
+c:\Users\Administrator\Desktop\Insight\Insight\InSight-API\API-GATEWAY\bin\Debug\netcoreapp2.0\gateway.dll
+c:\Users\Administrator\Desktop\Insight\Insight\InSight-API\API-GATEWAY\bin\Debug\netcoreapp2.0\gateway.pdb
+c:\Users\Administrator\Desktop\Insight\Insight\InSight-API\API-GATEWAY\obj\Debug\netcoreapp2.0\gateway.csproj.CoreCompileInputs.cache
+c:\Users\Administrator\Desktop\Insight\Insight\InSight-API\API-GATEWAY\obj\Debug\netcoreapp2.0\gateway.AssemblyInfoInputs.cache
+c:\Users\Administrator\Desktop\Insight\Insight\InSight-API\API-GATEWAY\obj\Debug\netcoreapp2.0\gateway.AssemblyInfo.cs
+c:\Users\Administrator\Desktop\Insight\Insight\InSight-API\API-GATEWAY\obj\Debug\netcoreapp2.0\gateway.dll
+c:\Users\Administrator\Desktop\Insight\Insight\InSight-API\API-GATEWAY\obj\Debug\netcoreapp2.0\gateway.pdb
+C:\Users\Administrator\Desktop\KA\Insight\InSight-API\API-GATEWAY\bin\Debug\netcoreapp2.0\gateway.deps.json
+C:\Users\Administrator\Desktop\KA\Insight\InSight-API\API-GATEWAY\bin\Debug\netcoreapp2.0\gateway.runtimeconfig.json
+C:\Users\Administrator\Desktop\KA\Insight\InSight-API\API-GATEWAY\bin\Debug\netcoreapp2.0\gateway.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\KA\Insight\InSight-API\API-GATEWAY\bin\Debug\netcoreapp2.0\gateway.dll
+C:\Users\Administrator\Desktop\KA\Insight\InSight-API\API-GATEWAY\bin\Debug\netcoreapp2.0\gateway.pdb
+C:\Users\Administrator\Desktop\KA\Insight\InSight-API\API-GATEWAY\obj\Debug\netcoreapp2.0\gateway.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\KA\Insight\InSight-API\API-GATEWAY\obj\Debug\netcoreapp2.0\gateway.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\KA\Insight\InSight-API\API-GATEWAY\obj\Debug\netcoreapp2.0\gateway.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\KA\Insight\InSight-API\API-GATEWAY\obj\Debug\netcoreapp2.0\gateway.dll
+C:\Users\Administrator\Desktop\KA\Insight\InSight-API\API-GATEWAY\obj\Debug\netcoreapp2.0\gateway.pdb
